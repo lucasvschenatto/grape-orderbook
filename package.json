@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "node src/node.js"
+  },
+  "dependencies": {
+    "grenache-nodejs-http": "^0.7.13",
+    "grenache-nodejs-link": "^0.7.13"
+  }
+}
