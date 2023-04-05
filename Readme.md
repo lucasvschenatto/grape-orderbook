@@ -22,7 +22,8 @@ If there is a race condition, the orders were not executed yet, so it is a matte
 - [x] Let the node receive orders and execute them on the waiting mechanism;
 - [x] Let the node propagate created orders, similar to a gossip protocol;
 - [ ] Only propagate if order was not already in the book and the order was not rejected;
-- [ ] Create script that starts a node and waits for user to prompt orders.
+- [ ] Create script that starts a node and waits for user to prompt orders;
+- [ ] Force BitInt conversion/usage for orders processing.
 
 ## Future Tasks Ideas
 
